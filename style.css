@@ -1,0 +1,17 @@
+body{
+    font-family:fantasy;
+    font-size: large;
+  
+ }
+ .intro{
+    background-color:rgb(240, 217, 243);
+    color: white;
+ }
+ label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ canvas{
+   float : center;
+   
+ }
+ 
